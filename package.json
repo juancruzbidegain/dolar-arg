@@ -1,0 +1,19 @@
+{
+  "name": "usd-ars",
+  "version": "1.0.0",
+  "description": "Package that transform usd(blue) to ars",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascipt",
+    "dolar",
+    "arg",
+    "pesos",
+    "a",
+    "dolar"
+  ],
+  "author": "jcbidegain",
+  "license": "MIT"
+}
