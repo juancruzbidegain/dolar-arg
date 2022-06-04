@@ -1,5 +1,5 @@
 const axios = require('axios')
-const types_request = require("./request")
+const types_request = require("../request/request")
 
 class Cotizacion {
 
@@ -28,8 +28,6 @@ class Cotizacion {
 }
 
 const cotizacion = new Cotizacion()
-
-cotizacion.DolarBlue()
 
 module.exports = cotizacion;
 
