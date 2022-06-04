@@ -16,10 +16,6 @@
   ],
   "author": "jcbidegain",
   "license": "MIT",
-  "bin":{
-    "ars-usd":"./bin/global.js"
-  },
-  "preferGlobal": true,
   "dependencies": {
     "axios": "^0.27.2"
   }

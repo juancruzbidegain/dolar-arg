@@ -29,6 +29,7 @@ class Cotizacion {
 
 const cotizacion = new Cotizacion()
 
+cotizacion.DolarBlue()
 
 module.exports = cotizacion;
 
