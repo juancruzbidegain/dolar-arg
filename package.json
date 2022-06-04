@@ -1,6 +1,6 @@
 {
   "name": "ars-usd",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Package that transform usd(blue) to ars",
   "main": "src/index.js",
   "scripts": {
@@ -15,10 +15,15 @@
     "a",
     "dolar"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/juancruzbidegain/ars-usd"
+  },
   "author": "jcbidegain",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.27.2"
+    "axios": "^0.27.2",
+    "node-fetch": "^3.2.5"
   },
   "devDependencies": {
     "nodemon": "^2.0.16"
